@@ -1,2 +1,2 @@
-# basic-repo
-Common content for all repositories
+# basic-java
+- JUnit 5 tests
